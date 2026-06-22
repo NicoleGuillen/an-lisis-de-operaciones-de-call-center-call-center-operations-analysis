@@ -1,0 +1,14 @@
+# --- SEGURIDAD DE DATOS ---
+*.csv
+*.CSV
+*.xlsx
+*.XLSX
+data/
+Data/
+DATA/
+.env
+
+# --- BASURA DE PYTHON ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
