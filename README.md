@@ -43,3 +43,10 @@ el incumplimiento de las metricas y la saturación de llamada provoca una tasa d
 3. Un AHT inusualmente alto suele ser síntoma de sistemas lentos, procesos engorrosos de post-llamada (Wrap-up time) o falta de autonomía del agente. Automatizar tareas repetitivas en sus pantallas (ej. rellenar datos del cliente de forma automática) reduce segundos valiosos de la interacción.
 4.  Refuerzo en Resolución al Primer Contacto.
 5.  Monitoreo de Anomalías Operativas.
+
+
+Raw Dataset proveniente de Kaggle: Call Center Data
+Call Center Daily Performance 
+Masoud Ahmadzade Jahromi 
+License
+CC0: Public Domain
